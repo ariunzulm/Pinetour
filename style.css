@@ -251,18 +251,6 @@
   justify-items: center;
 }
 
-/* .destination-list-item-img {
-  display: none;
-} */
-/* .destination-list-item:hover + .destination-list-item-img {
-  display: block;
-  position: absolute;
-  right: 0;
-}
-.destination-list-item:hover {
-  border: 5px solid black;
-  border-radius: 30px;
-} */
 .day-all:hover {
   border: 5px solid white;
 }
